@@ -1,8 +1,8 @@
 # Hi! I'm Nedas,
 ### An aspiring Software Engineer
 
-- 🖥️ I'm working on a full-stack web dev project
-- 📖 Currently a 1st year student at University of Leicester, studying Software Engineering BSc
+- 🖥️ Currently working on a full-stack web dev project
+- 📖 1st year student at University of Leicester, studying Software Engineering BSc
 - 😄 Open for collaborations!
 - 📱 Reach me at nedas.mikucionis123@gmail.com
 <!---
