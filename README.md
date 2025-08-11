@@ -1,11 +1,7 @@
-# Hi! I'm Nedas,
-### An aspiring Software Engineer
+### Hey! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
 
-- 🖥️ Currently working on a full e-commerce backend
-- 📖 2nd year student at University of Leicester, studying Software Engineering BSc
-- 😄 Open for collaborations!
-- 📱 Reach me at nedas.mikucionis.dev@gmail.com
-<!---
-Nedas3/Nedas3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+About me:
+- Currently working on neuro-symbolic algorithms @ UnlikelyAI
+- 2nd year student at University of Leicester, studying Software Engineering BSc
+- Experience in Python, Go, Java, Javascript
+- Reach me at [my linkedin](https://www.linkedin.com/in/nedas-mikucionis/) :)
