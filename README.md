@@ -3,9 +3,9 @@
 About me:  
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🤖 Currently working on neuro-symbolic algorithms @ UnlikelyAI  
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🧠 Love working on highly performant systems
   
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🧐 2nd year student at University of Leicester, studying Software Engineering BSc  
   
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;😎 Experience in Python, Go, Java, Javascript  
-  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;😁 Reach me at [my linkedin](https://www.linkedin.com/in/nedas-mikucionis/) :)  
